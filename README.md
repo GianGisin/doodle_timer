@@ -8,6 +8,7 @@
 4. Take a screenshot of the "game paused" and "you win" text in the game. Make sure the browser window has the same size as when you play. E.g. if you play with the browser window maximized, take the screenshots while the window is maximized.
 ![win](img/win.png)
 ![pause](img/pause.png)
+The screenshots should look something like the above. They don't need to be exact though.
 
 5. Place the images in the img folder and name them win.png and paused.png respectively
 
