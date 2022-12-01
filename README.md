@@ -12,7 +12,7 @@ The screenshots should look something like the above. They don't need to be exac
 
 5. Place the images in the img folder and name them win.png and paused.png respectively
 
-** How to Play
+## How to use
 
 1. Open the folder where main.exe is located. Right click in the explorer and open in terminal.
 2. type main and hit enter
