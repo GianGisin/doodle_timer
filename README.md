@@ -6,8 +6,8 @@
 2. Put the main.exe file into a new folder somewhere on your device
 3. inside the new folder, create another folder called img
 4. Take a screenshot of the "game paused" and "you win" text in the game. Make sure the browser window has the same size as when you play. E.g. if you play with the browser window maximized, take the screenshots while the window is maximized.
-![win](img/win.jpg)
-![pause](img/pause.jpg)
+![win](img/win.png)
+![pause](img/pause.png)
 
 5. Place the images in the img folder and name them win.png and paused.png respectively
 
