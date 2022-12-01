@@ -2,7 +2,7 @@
 
 ## How to install
 
-1. Download the main.exe file from [link]
+1. Download the main.exe file from [here](https://github.com/GianGisin/doodle_timer/releases/tag/v0.1.0)
 2. Put the main.exe file into a new folder somewhere on your device
 3. inside the new folder, create another folder called img
 4. Take a screenshot of the "game paused" and "you win" text in the game. Make sure the browser window has the same size as when you play. E.g. if you play with the browser window maximized, take the screenshots while the window is maximized.
